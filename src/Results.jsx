@@ -22,7 +22,6 @@ const Results = ({ pets }) => {
       )}
     </div>
   );
-  /* eslint-disable */
 };
 
 export default Results;
